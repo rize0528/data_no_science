@@ -22,6 +22,7 @@
 ### Github權限
 HackMD本身提供了Github同步的功能，所以在開啟或是同步Github之前，  
 請跟Repo原owner(頻道內密Riz)或是主持人(名字為紅色的)申請加入github collaborator
+Repo位置(https://github.com/rize0528/data_no_science)
 
 ### Hackmd連結到Github
 連結到Github有兩種方法，第一種是新增筆記時會在編輯器的下方出現『推送至 Github』
@@ -30,6 +31,7 @@ HackMD本身提供了Github同步的功能，所以在開啟或是同步Github�
 
 點開後會出現下面的對話窗，請填寫
 1. 選擇Repo (rize0528/data_no_science)
+   * 如果無法看到，就表示你還沒有Repo的權限，請回上一步確認你擁有編輯的權限
 2. 選擇要同步的檔案
    * 請照著格式 "EP?_本次節目題目_講者或講者的公司名稱.md"
 3. 簡單輸入一些commit描述後就點選推送
@@ -51,5 +53,4 @@ credits: riz_hsu
 * tags: 本節目一率為 『資料不科學幹話天地』
 * credits: 筆記貢獻者，請附上你的名字並用半形逗號(,)連接
 
-
-###
+最後，文章編輯就以編輯者喜歡個格式進行編輯，但還是建議使用Markdown style的編輯方法以利其他人觀看。
