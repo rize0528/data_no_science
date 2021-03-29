@@ -25,16 +25,22 @@ HackMD本身提供了Github同步的功能，所以在開啟或是同步Github�
 Repo位置(https://github.com/rize0528/data_no_science)
 
 ### Hackmd連結到Github
-連結到Github有兩種方法，第一種是新增筆記時會在編輯器的下方出現『推送至 Github』
+連結到Github有兩種方法：
 
-![](/res/imgs/hackmd_03.jpg)
+* 第一種是新增筆記時會在編輯器的下方出現『推送至 Github』
 
-點開後會出現下面的對話窗，請填寫
-1. 選擇Repo (rize0528/data_no_science)
-   * 如果無法看到，就表示你還沒有Repo的權限，請回上一步確認你擁有編輯的權限
-2. 選擇要同步的檔案
-   * 請照著格式 "EP?_本次節目題目_講者或講者的公司名稱.md"
-3. 簡單輸入一些commit描述後就點選推送
+  * ![](/res/imgs/hackmd_03.jpg)
+
+  * 點開後會出現下面的對話窗，請填寫
+    1. 選擇Repo (rize0528/data_no_science)
+       * 如果無法看到，就表示你還沒有Repo的權限，請回上一步確認你擁有編輯的權限
+    2. 選擇要同步的檔案
+       * 請照著格式 "EP?_本次節目題目_講者或講者的公司名稱.md"
+    3. 簡單輸入一些commit描述後就點選推送
+
+* 第二種則是從既有的筆記上傳，一樣點選『...』並點選『推送至GitHub』且填寫同第一種方法的對話窗便可連結。
+
+![](/res/imgs/hackmd_07.jpg)
 
 ![](/res/imgs/hackmd_04.jpg)
 
