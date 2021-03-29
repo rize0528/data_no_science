@@ -38,6 +38,18 @@ Repo位置(https://github.com/rize0528/data_no_science)
 
 ![](/res/imgs/hackmd_04.jpg)
 
+## 同步Github
+節目結束，編輯完筆記後，請記得Commit大家的筆記內容，請點選 『...』 中的 『版本與Github同步』
+
+![](/res/imgs/hackmd_06.jpg)
+
+對話窗出現後，請先『拉取變更』後再『推送變更』
+
+![](/res/imgs/hackmd_05.jpg)
+
+並填入一些comment就可以同步囉～
+
+
 ## 筆記的格式
 
 筆記沒有特別的格式需要follow，不過HackMD有所謂的標籤功能，為了整理方便所以希望在文章頭加入以下標籤
