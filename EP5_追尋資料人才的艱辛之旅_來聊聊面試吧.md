@@ -73,4 +73,5 @@ credits: riz_hsu@onsen
         * ```回： 寫Project應該要寫KPI而不是達成什麼事情```
             * 像是`做了這個Project幫公司省多少錢`
             * 但是對DS不見得適用，所以還是適當的加入。
+                * 像是reform ML model，讓Prec/Recall從75%->90%（但是這個90%真的能幫到公司多少？）
 
