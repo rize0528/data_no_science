@@ -57,3 +57,8 @@ credits: riz_hsu
 ## Coding challenge: 追求對雙方都有意義的試驗
 * 對於entry level才會用類似leetcode的方式
 * 而對於senior來說會考比較應用的題目，像是offline開db、塞資料並做計算。
+
+## 下期預告
+* functional screening
+* C-level people's mindset
+* cultural fit
