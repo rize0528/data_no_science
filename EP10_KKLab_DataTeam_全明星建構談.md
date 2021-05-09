@@ -1,10 +1,10 @@
 ---
-title: EP10 「KKLab DataTeam All Star」 
+title: EP10 「KKLab DataTeam 全明星建構談」 
 tags: 資料不科學幹話天地
 credits: riz_hsu
 ---
 
-# KKLab DataTeam All Star
+# KKLab DataTeam 全明星建構談
 
 * 資料不科學幹話天地 - 第十集
 * 主持人 Kyle@Singapore
